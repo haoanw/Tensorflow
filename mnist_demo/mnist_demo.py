@@ -10,7 +10,7 @@ import tensorflow as tf
 import os
 import sys
 
-os.environ["HTTPS_PROXY"] = "http://Name:Password@ho-bb-blu1-vip.de.bertrandt.net:8080"
+os.environ["HTTPS_PROXY"] = "http://Name:Password@ho-bb-blu1-vip.de.company.net:8080"
 Path_Train_x = "./mnist_train_data_x/"
 Path_Train_y = "./mnist_train_data_y/"
 Path_Test_x = "./mnist_test_data_x/"
